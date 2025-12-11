@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\VSC\\GameCharacter\\GameCharacter.csproj": {}
+    "c:\\VSC\\GameCharacter\\GameCharacter.csproj": {}
   },
   "projects": {
-    "C:\\VSC\\GameCharacter\\GameCharacter.csproj": {
+    "c:\\VSC\\GameCharacter\\GameCharacter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\VSC\\GameCharacter\\GameCharacter.csproj",
+        "projectUniqueName": "c:\\VSC\\GameCharacter\\GameCharacter.csproj",
         "projectName": "GameCharacter",
-        "projectPath": "C:\\VSC\\GameCharacter\\GameCharacter.csproj",
+        "projectPath": "c:\\VSC\\GameCharacter\\GameCharacter.csproj",
         "packagesPath": "C:\\Users\\Emilv\\.nuget\\packages\\",
-        "outputPath": "C:\\VSC\\GameCharacter\\obj\\",
+        "outputPath": "c:\\VSC\\GameCharacter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Emilv\\AppData\\Roaming\\NuGet\\NuGet.Config"

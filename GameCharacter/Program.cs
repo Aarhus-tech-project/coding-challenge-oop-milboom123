@@ -5,7 +5,7 @@ class Program
 {
     static void Main()
     {
-        GameCharacterList liste = new GameCharacterList();
+        GameCharacterList list = new GameCharacterList();
 
         // Predefined List
         List<string> origins = new List<string> { "Human", "Half-elf", "Elf", "Dwarf", "Halfling", "Gnome", "Half-Ork", "Transformer", "Android", "Shapeshifter", "Kenku", "Minotaur", "Dragonborn", "Genasi", "Zombie", "Skeleton", "Vampire", "Ghost" };
@@ -34,22 +34,23 @@ class Program
             int occupationChoice = ChooseFromList(occupations.Count);
 
             // Create Character
-            GameCharacter Character = new GameCharacter
+            GameCharacter Character = new Wizard
             {
                 CharacterName = CharacterName,
                 Origin = origins[originChoice - 1],
                 Occupation = occupations[occupationChoice - 1]
             };
+            Character.SayName();
 
-            liste.Add(Character);
+            list.Add(Character);
             Console.WriteLine("Character Added!\n");
         }
 
         // Print Characterlist
         Console.WriteLine("\n--- YOUR CHARACTERS ---");
-        foreach (var k in liste.Characters)
+        foreach (var C in list.Characters)
         {
-            Console.WriteLine($"Name: {k.CharacterName}, Origin: {k.Origin}, Occupation: {k.Occupation}");
+            C.SayName();
         }
     }
 
