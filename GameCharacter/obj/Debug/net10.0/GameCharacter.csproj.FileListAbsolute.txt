@@ -1,0 +1,14 @@
+C:\VSC\GameCharacter\obj\Debug\net10.0\GameCharacter.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC\GameCharacter\obj\Debug\net10.0\GameCharacter.AssemblyInfoInputs.cache
+C:\VSC\GameCharacter\obj\Debug\net10.0\GameCharacter.AssemblyInfo.cs
+C:\VSC\GameCharacter\obj\Debug\net10.0\GameCharacter.csproj.CoreCompileInputs.cache
+C:\VSC\GameCharacter\bin\Debug\net10.0\GameCharacter.exe
+C:\VSC\GameCharacter\bin\Debug\net10.0\GameCharacter.deps.json
+C:\VSC\GameCharacter\bin\Debug\net10.0\GameCharacter.runtimeconfig.json
+C:\VSC\GameCharacter\bin\Debug\net10.0\GameCharacter.dll
+C:\VSC\GameCharacter\bin\Debug\net10.0\GameCharacter.pdb
+C:\VSC\GameCharacter\obj\Debug\net10.0\GameCharacter.dll
+C:\VSC\GameCharacter\obj\Debug\net10.0\refint\GameCharacter.dll
+C:\VSC\GameCharacter\obj\Debug\net10.0\GameCharacter.pdb
+C:\VSC\GameCharacter\obj\Debug\net10.0\GameCharacter.genruntimeconfig.cache
+C:\VSC\GameCharacter\obj\Debug\net10.0\ref\GameCharacter.dll
